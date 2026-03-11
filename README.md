@@ -1,4 +1,4 @@
-# Daniel Varela 👋
+# Daniel Varela
 
 Estudiante de **Ingeniería en Ciencias de la Computación e Inteligencia Artificial** interesado en **Data Engineering, Machine Learning y desarrollo de sistemas de datos**.
 
@@ -54,7 +54,6 @@ Sistema de procesamiento de lenguaje natural para clasificar texto como positivo
 
 ## Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvar13&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvar13&layout=compact)
 
